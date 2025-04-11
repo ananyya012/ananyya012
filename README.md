@@ -5,7 +5,7 @@
 
 ### Skills 🙉
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)	![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  <br>![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)	![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+  <br>![Html](https://img.shields.io/badge/Html-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)	![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white) 
 
 ### Portfolio 🐒
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-green?style=for-the-badge)](https://mypersonalportfolio012.netlify.app/)
